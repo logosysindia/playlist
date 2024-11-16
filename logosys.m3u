@@ -10,3 +10,28 @@ http://streamcp.logosys.cloud:1935/divyang/divyang/playlist.m3u8
 #EXTINF:-1, Purple
 #EXTGRP:Entertainment
 http://streamcp.logosys.cloud:1935/purple/purple/playlist.m3u8
+#EXTINF:-1, IBTV USA
+#EXTGRP:News
+http://streamcp.logosys.cloud:1935/ibtvusa/ibtvusa/playlist.m3u8
+#EXTINF:-1, I PLUS TV
+#EXTGRP:Devotional
+http://streamcp.logosys.cloud:1935/iplustv/iplustv/playlist.m3u8
+#EXTINF:-1, Mercy TV
+#EXTGRP:Devotional
+http://streamcp.logosys.cloud:1935/mercytv/mercytv/playlist.m3u8
+#EXTINF:-1, JKAC News
+#EXTGRP:News
+http://streamcp.logosys.cloud:1935/jkacnews/jkacnews/playlist.m3u8
+#EXTINF:-1, SIASAT TV
+#EXTGRP:News
+http://streamcp.logosys.cloud:1935/siasat/siasat/playlist.m3u8
+#EXTINF:-1, Janadesh News
+#EXTGRP:News
+http://streamcp.logosys.cloud:1935/janadesh/janadesh/playlist.m3u8
+#EXTINF:-1,Prime9 News
+#EXTGRP:News
+http://streamcp.logosys.cloud:1935/prime9news/prime9news/playlist.m3u8
+#EXTINF:-1,TV News10
+#EXTGRP:News
+http://streamcp.logosys.cloud:1935/tvnews10/tvnews10/playlist.m3u8
+
