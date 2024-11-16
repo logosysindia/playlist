@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Channel Name 1
-http://example.com/stream1.m3u8
-#EXTINF:-1, Channel Name 2
-http://example.com/stream2.m3u8
+#EXTINF:-1, Shiksha TV
+http://streamcp.logosys.cloud:1935/shikshatvhd/shikshatvhd/playlist.m3u8
+#EXTINF:-1, Divyang News
+http://streamcp.logosys.cloud:1935/divyang/divyang/playlist.m3u8
