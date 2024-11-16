@@ -7,3 +7,6 @@ http://streamcp.logosys.cloud:1935/shikshatvhd/shikshatvhd/playlist.m3u8
 #EXTIMG:https://scontent.fhyd2-2.fna.fbcdn.net/v/t39.30808-6/265328473_419261926508936_5409230331021146999_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eEMgR-g5ddMQ7kNvgFcEgF4&_nc_zt=23&_nc_ht=scontent.fhyd2-2.fna&_nc_gid=Ac3idvMmtBoXv7RZWuqDyya&oh=00_AYBXEziGQI6lHT9hv4CVTFk0T4NzmFiOw2wq3r_myeuDGw&oe=673E7268
 #EXTGRP:News
 http://streamcp.logosys.cloud:1935/divyang/divyang/playlist.m3u8
+#EXTINF:-1, Purple
+#EXTGRP:Entertainment
+http://streamcp.logosys.cloud:1935/purple/purple/playlist.m3u8
