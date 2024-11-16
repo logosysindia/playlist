@@ -34,4 +34,13 @@ http://streamcp.logosys.cloud:1935/prime9news/prime9news/playlist.m3u8
 #EXTINF:-1,TV News10
 #EXTGRP:News
 http://streamcp.logosys.cloud:1935/tvnews10/tvnews10/playlist.m3u8
+#EXTINF:-1,Lokeshwar TV
+#EXTGRP:News
+http://streamcp.logosys.cloud:1935/abhitakbilaspur/abhitakbilaspur/playlist.m3u8
+#EXTINF:-1,BCN News
+#EXTGRP:News
+http://streamcp.logosys.cloud:1935/bcnchannel/bcnchannel/playlist.m3u8
+#EXTINF:-1,RK News
+#EXTGRP:News
+http://streamcp.logosys.cloud:1935/rknews/rknews/playlist.m3u8
 
